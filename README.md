@@ -1,2 +1,3 @@
-# App_With_Qt_Design
+# Qt_Design
+##### Utilizando Qt Design + Python, desenvolvi uma tela interativa. 
  
